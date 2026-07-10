@@ -17,4 +17,10 @@ https://www.hancomtaja.com/ko#main__taja
 
 <hr>
 
+<h1>컴활1급교재 실기 오류 수정</h1>
+<h2 ><a href="https://docs.google.com/spreadsheets/d/1ImU0lis1U5dMD092O8xUJTAn0NS-GIGuOqeSn-T8Ev8/edit?gid=0#gid=0
+">컴활1급교재 실기 오류 수정.</a></h2>
+
+<hr>
+
 
